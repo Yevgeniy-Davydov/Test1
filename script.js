@@ -15,10 +15,8 @@ const priceData = {
     BANANAS: '48',
     oRAngGEs: '48.7584',
   };
-
-  let keys = key.priceData.toLowercase();
 //   let array = Object.entries(priceData);
-    console.log(array)
+    console.log(keys)
 //   let updatedPriceData = {};
 
 
